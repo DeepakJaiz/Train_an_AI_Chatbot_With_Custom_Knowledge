@@ -18,6 +18,6 @@ Install VS Code to run the code <br/>
 `pip install PyPDF2`<br/>
 
 ### How to run
-First of all fetch all the file and add it in a new folder.
-Then open the folder in VS Code.
+First of all fetch all the file and add it in a new folder.<br/>
+Then open the folder in VS Code.<br/>
 Run the command python app.py
